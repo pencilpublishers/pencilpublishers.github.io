@@ -1,0 +1,82 @@
+div.logo {
+text-align: center;
+margin: 35 auto;
+width: auto;
+}
+
+div.body {
+text-align: center;
+margin: 35 auto;
+width: 1200px;
+background-color: #FFFFE0;
+border: 2px solid;
+}
+
+body {
+  background: #FFFFCC url("fulllogo.jpg") top left no-repeat fixed;
+}
+
+a.body {
+color: gray;
+}
+
+a.body:hover {
+color: black;
+text-decoration: none;
+}
+
+img.link {
+opacity: 1;
+float: right;
+}
+
+img.link:hover {
+opacity: 0.9;
+float: right;
+} 
+
+h1 {
+background-color: #FFFFE0;
+align: center;
+}
+
+h2 {
+background-color: #FFFFE0;
+align: center;
+}
+
+ul.nav {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFFFCC;
+  display: table;
+  margin: 0 auto;
+}
+
+li.nav {
+  float: left;
+  margin: 0 auto;
+}
+
+li.nav a {
+  display: inline-block;
+  background-color: orange;
+  color: #222;
+  text-align: center;
+  padding: 42px 48px;
+  text-decoration: none;
+}
+
+li.nav a:hover {
+  background-color: tomato;
+  color: #000;
+}
+
+li.nav a.inactive {
+  background-color: #777;
+  color: #000;
+}
+li.nav a.inactive:hover {
+background-color: #777;
+  color: #000;
