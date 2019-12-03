@@ -62,7 +62,7 @@ li.nav {
 
 li.nav a {
   display: inline-block;
-  background-color: orange;
+  background-color: #FFFFAA;
   color: #222;
   text-align: center;
   padding: 42px 48px;
@@ -70,7 +70,7 @@ li.nav a {
 }
 
 li.nav a:hover {
-  background-color: tomato;
+  background-color: #FFFFE0;
   color: #000;
 }
 
