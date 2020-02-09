@@ -29,8 +29,8 @@ Petrol goes to the combustion chamber and gets ignited. Therefore, cars should i
 <ul class="nav">
 <li class="nav"><a href="1.html"> << </a></li>
 <li class="nav"><a href="5.html"> < </a></li>
-<li class="nav"><a href="7.html"> > </a></li>
-<li class="nav"><a href="index.html"> >> </a></li>
+<li class="nav"><a class="inactive"> > </a></li>
+<li class="nav"><a class="inactive"> >> </a></li>
 </ul>
 </body>
 </html>

@@ -1,0 +1,120 @@
+<html>
+<head>
+<link rel="shortcut icon" href="../header.jpg">
+<link rel = "stylesheet" href = "nonsense.css">
+<title>Rule VII</title>
+</head>
+<body bgcolor="#FFFFCC">
+<a href="../"><img src="../logo.jpg" class="link" width=160 height=90></a>
+<div class="logo">
+<img src="../illogicallogo.jpg" width=480 height=270>
+<font size=4 color="red">
+<div class="body">
+<h3>Warning:</h3>
+<i>This book has been made purely for fun, and for the purpose of mocking logic. It has gone through a rigorous checking process to make sure that it does not comply with any true facts.
+These rules can not be followed. If you go by the rules, you will fail your academics, and amount to nothing in life. Some rules may even pose a risk to your sanity. If they don't, the terrible
+illustrations certainly will. We the authors of this book already serve this position.</i>
+</div>
+<font color="black">
+<h1>Rule VII</h1>
+<h2>The meaning of words.</h2>
+<font size=5>
+<div class="body">
+So you think you know the meaning of words like shoe? Now, they have a whole new meaning. In algebra, ab = a*b. Now, each letter has a value from a=1 to z=26. The word 'ab' = 1*2 = 2. Ab's meaning is 2.
+Below are the alphabet values.
+<br>
+<table>
+<tr>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>D</th>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<th>E</th>
+<th>F</th>
+<th>G</th>
+<th>H</th>
+</tr>
+<tr>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<th>I</th>
+<th>J</th>
+<th>K</th>
+<th>L</th>
+</tr>
+<tr>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+</tr>
+<tr>
+<th>M</th>
+<th>N</th>
+<th>O</th>
+<th>P</th>
+</tr>
+<tr>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+</tr>
+<tr>
+<th>Q</th>
+<th>R</th>
+<th>S</th>
+<th>T</th>
+</tr>
+<tr>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
+</tr>
+<tr>
+<th>U</th>
+<th>V</th>
+<th>W</th>
+<th>X</th>
+</tr>
+<tr>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+</tr>
+<tr>
+<th>Y</th>
+<th>Z</th>
+</tr>
+<tr>
+<td>25</td>
+<td>26</td>
+</tr>
+</table>
+<font size=4>
+<br>
+<i>By <a href="https://fisik-yum.github.io" class="body">fisik_yum</a>.
+</div>
+</font>
+<ul class="nav">
+<li class="nav"><a href="1.html"> << </a></li>
+<li class="nav"><a href="6.html"> < </a></li>
+<li class="nav"><a class="inactive"> > </a></li>
+<li class="nav"><a class="inactive"> >> </a></li>
+</ul>
+</body>
+</html>
