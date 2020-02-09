@@ -18,8 +18,8 @@ As doom hits back with all its might.
 <ul class="nav">
 <li class="nav"><a href="../../2019/08/03.html"> << </a></li>
 <li class="nav"><a href="../../2019/12/29.html"> < </a></li>
-<li class="nav"><a href="../02/09.html"> > </a></li>
-<li class="nav"><a href="../../index.html"> >> </a></li>
+<li class="nav"><a "../02/09.html"> > </a></li>
+<li class="nav"><a class="../../index.html"> >> </a></li>
 </ul>
 </body>
 </font>
